@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5230ecf-61dd-4c7d-9ed7-d6062a06d0ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/FreeCodeCampQuestions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BloodTypeCompatibility.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Flattened.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FreeStyleSkiing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumTheLetters.py" afterDir="false" />
+    <list default="true" id="a5230ecf-61dd-4c7d-9ed7-d6062a06d0ef" name="Changes" comment="Commit the current problems I've done">
+      <change afterPath="$PROJECT_DIR$/src/ElementSize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +36,7 @@
   "keyToString": {
     "Python.BloodTypeCompatibility.executor": "Run",
     "Python.Day15.executor": "Run",
+    "Python.ElementSize.executor": "Run",
     "Python.Flattened.executor": "Run",
     "Python.FreeStyleSkiing.executor": "Run",
     "Python.SumTheLetters.executor": "Run",
@@ -73,6 +62,19 @@
       <option name="presentableId" value="Default" />
       <updated>1771652054511</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit the current problems I've done">
+      <option name="closed" value="true" />
+      <created>1772642000860</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772642000860</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit the current problems I've done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit the current problems I've done" />
   </component>
 </project>

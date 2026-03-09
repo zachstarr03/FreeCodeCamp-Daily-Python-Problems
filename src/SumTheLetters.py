@@ -1,3 +1,5 @@
+# 3/02:
+
 """ Directions: Given a string, return the sum of its letters.
 
 Letters are A-Z in uppercase or lowercase

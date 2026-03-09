@@ -53,17 +53,3 @@ if __name__ == "__main__":
     print(sum_letters("</404>"))
 
 ''' Once again, an LLM helped me understand my reasoning and logic, and I was able to derive a fully functioning solution on my own, without it giving me the full correct solution '''
-
-''' Optimal solution: dictionary is a good start for clarity, this is optimized to constant space
-O(n) Time complexity, O(1) Space complexity '''
-"""
-def sum_letters(s):
-    total = 0
-
-    for char in s:
-        if char.isalpha():      # checks if all chars are alphabetic (letters only)
-            # Convert to lowercase and map 'a' → 1, ..., 'z' → 26
-            total += ord(char.lower()) - ord('a') + 1
-
-    return total
-"""

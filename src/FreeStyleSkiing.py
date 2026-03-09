@@ -40,28 +40,6 @@ if __name__ == "__main__":
     print(is_valid_trick("Snowstorm Shadow"))   # False
     print(is_valid_trick("Solar Sky"))          # False
 
-''' Optimal Solution: O(1) time complexity, O(1) space complexity '''
-"""
-def is_valid_trick(trick_name):
-    valid_first_words = {
-        "Misty", "Ghost", "Thunder", "Solar",
-        "Sky", "Phantom", "Frozen", "Polar"
-    }
-
-    valid_second_words = {
-        "Twister", "Icequake", "Avalanche",
-        "Vortex", "Snowstorm", "Frostbite",
-        "Blizzard", "Shadow"
-    }
-
-    try:
-        first, second = trick_name.split(" ")
-    except ValueError:
-        return False  # not exactly two words
-
-    return first in valid_first_words and second in valid_second_words
-"""
-
 # set membership checks "in" are O(1) on average for sets, so using sets instead of lists can improve performance.
 # Avoid unnecessary if/else, instead directly return the boolean expression result.
 # Added error handling for cases where the input does not contain exactly two words, which prevents potential index errors.

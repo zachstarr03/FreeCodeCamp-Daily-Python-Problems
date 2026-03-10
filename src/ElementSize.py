@@ -48,3 +48,24 @@ if __name__ == "__main__":
     print(get_element_size("1920 x 1080", "95vw", "100vh"))     # 1824 x 1080
     print(get_element_size("1200 x 800", "0vw", "0vh"))         # 0 x 0
     print(get_element_size("1440 x 900", "100vw", "114vh"))     # 1440 x 1026
+
+################################################################################################
+
+"""
+''' I didn't use an LLM at all for help throughout the problem '''
+
+''' Optimal solution from ChatGPT: '''
+def get_element_size(window_size, element_vw, element_vh):
+
+    width, _, height = window_size.split()
+    width = int(width)
+    height = int(height)
+
+    vw = int(element_vw[:-2]) / 100
+    vh = int(element_vh[:-2]) / 100
+
+    element_width = int(width * vw)
+    element_height = int(height * vh)
+
+    return f"{element_width} x {element_height}"
+"""

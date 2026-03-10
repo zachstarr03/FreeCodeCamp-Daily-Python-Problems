@@ -30,3 +30,16 @@ if __name__ == "__main__":
 ''' Incrementing through a list of size n, will always yield a time complexity of O(n). If the input size is n, the loop runs n times. 
 Because Big O describes the general growth pattern and not just one input size, even if there is only one element (n = 1), the algorithm will still be O(n),
 since it must check every element and always scale with n '''
+
+##############################################################################################
+
+"""
+''' I didn't use an LLM for this problem for any guidance '''
+
+''' Optimal Solution from ChatGPT: '''
+def sum_array(numbers):
+    total = 0
+    for num in numbers:
+        total += num
+    return total
+"""

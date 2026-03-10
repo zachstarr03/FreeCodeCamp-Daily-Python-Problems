@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5230ecf-61dd-4c7d-9ed7-d6062a06d0ef" name="Changes" comment="Problems I have done so far (updated)">
-      <change afterPath="$PROJECT_DIR$/src/ArrayInsertion.py" afterDir="false" />
+    <list default="true" id="a5230ecf-61dd-4c7d-9ed7-d6062a06d0ef" name="Changes" comment="3/10 Problem">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayInsertion.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayInsertion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ArraySum.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraySum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ElementSize.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ElementSize.py" afterDir="false" />
     </list>
@@ -34,22 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ArrayInsertion.executor": "Run",
-    "Python.ArraySum.executor": "Run",
-    "Python.BloodTypeCompatibility.executor": "Run",
-    "Python.Day15.executor": "Run",
-    "Python.ElementSize.executor": "Run",
-    "Python.Flattened.executor": "Run",
-    "Python.FreeStyleSkiing.executor": "Run",
-    "Python.SumTheLetters.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ArrayInsertion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ArraySum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BloodTypeCompatibility.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ElementSize.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Flattened.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FreeStyleSkiing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SumTheLetters.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -98,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773084057040</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="3/10 Problem">
+      <option name="closed" value="true" />
+      <created>1773161291786</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1773161291786</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -106,6 +114,7 @@
     <MESSAGE value="3/7 Problem" />
     <MESSAGE value="3/9 Problem" />
     <MESSAGE value="Problems I have done so far (updated)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problems I have done so far (updated)" />
+    <MESSAGE value="3/10 Problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/10 Problem" />
   </component>
 </project>

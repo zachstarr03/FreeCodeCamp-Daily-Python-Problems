@@ -34,7 +34,7 @@ since it must check every element and always scale with n '''
 ##############################################################################################
 
 """
-''' I didn't use an LLM for this problem for any guidance '''
+''' I didn't use an LLM for this problem for any guidance or help to develop my solution '''
 
 ''' Optimal Solution from ChatGPT: '''
 def sum_array(numbers):

@@ -7,8 +7,6 @@
     <list default="true" id="a5230ecf-61dd-4c7d-9ed7-d6062a06d0ef" name="Changes" comment="3/10 Problem">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ArrayInsertion.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayInsertion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArraySum.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraySum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ElementSize.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ElementSize.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773161291786</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="3/10 Problem">
+      <option name="closed" value="true" />
+      <created>1773163165295</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1773163165295</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

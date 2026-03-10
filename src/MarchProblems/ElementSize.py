@@ -52,7 +52,7 @@ if __name__ == "__main__":
 ################################################################################################
 
 """
-''' I didn't use an LLM at all for help throughout the problem '''
+''' I didn't use an LLM at all for help throughout the problem to develop my solution '''
 
 ''' Optimal solution from ChatGPT: '''
 def get_element_size(window_size, element_vw, element_vh):

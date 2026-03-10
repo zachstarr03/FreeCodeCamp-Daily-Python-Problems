@@ -39,3 +39,10 @@ if __name__ == "__main__":
 if index == len(arr), then use arr.append(value), else use arr.insert(index, value). .append() is more efficient,
 since all subsequent elements don't need to be shifted.
 '''
+
+###############################################################################################
+
+""" I didn't use a LLM for this problem for any guidance.
+The LLM was only used to showcase my solution, which it then showed me a solution using method
+2. I understood method 2 and how it works perfectly.
+"""

@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5230ecf-61dd-4c7d-9ed7-d6062a06d0ef" name="Changes" comment="3/10 Problem">
+    <list default="true" id="a5230ecf-61dd-4c7d-9ed7-d6062a06d0ef" name="Changes" comment="Problems so far from February and March">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayInsertion.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayInsertion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zach\PycharmProjects\FreeCodeCampQuestions\src\MarchProblems" />
+      <recent name="C:\Users\Zach\PycharmProjects\FreeCodeCampQuestions\src\FebruaryProblems" />
+      <recent name="C:\Users\Zach\PycharmProjects\FreeCodeCampQuestions\src" />
+      <recent name="C:\Users\Zach\PycharmProjects\FreeCodeCampQuestions\FebruaryProblems" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -112,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773163165295</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Problems so far from February and March">
+      <option name="closed" value="true" />
+      <created>1773164229941</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1773164229941</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -121,6 +136,7 @@
     <MESSAGE value="3/9 Problem" />
     <MESSAGE value="Problems I have done so far (updated)" />
     <MESSAGE value="3/10 Problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="3/10 Problem" />
+    <MESSAGE value="Problems so far from February and March" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problems so far from February and March" />
   </component>
 </project>

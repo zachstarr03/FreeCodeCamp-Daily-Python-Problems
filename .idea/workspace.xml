@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5230ecf-61dd-4c7d-9ed7-d6062a06d0ef" name="Changes" comment="Problems so far from February and March">
+      <change afterPath="$PROJECT_DIR$/src/MarchProblems/WordLengthConverter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,22 +32,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.ArrayInsertion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ArraySum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BloodTypeCompatibility.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ElementSize.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Flattened.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FreeStyleSkiing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SumTheLetters.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ArrayInsertion.executor": "Run",
+    "Python.ArraySum.executor": "Run",
+    "Python.BloodTypeCompatibility.executor": "Run",
+    "Python.Day15.executor": "Run",
+    "Python.ElementSize.executor": "Run",
+    "Python.Flattened.executor": "Run",
+    "Python.FreeStyleSkiing.executor": "Run",
+    "Python.SumTheLetters.executor": "Run",
+    "Python.WordLengthConverter.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Zach\PycharmProjects\FreeCodeCampQuestions\src\MarchProblems" />

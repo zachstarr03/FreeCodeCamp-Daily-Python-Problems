@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5230ecf-61dd-4c7d-9ed7-d6062a06d0ef" name="Changes" comment="3/11 Problem">
-      <change afterPath="$PROJECT_DIR$/src/MarchProblems/DominoChainValidator.py" afterDir="false" />
+    <list default="true" id="a5230ecf-61dd-4c7d-9ed7-d6062a06d0ef" name="Changes" comment="3/12 Problem">
+      <change afterPath="$PROJECT_DIR$/src/MarchProblems/ParkingFeeCalculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +42,7 @@
     "Python.ElementSize.executor": "Run",
     "Python.Flattened.executor": "Run",
     "Python.FreeStyleSkiing.executor": "Run",
+    "Python.ParkingFeeCalculator.executor": "Run",
     "Python.SumTheLetters.executor": "Run",
     "Python.WordLengthConverter.executor": "Run",
     "Python.test.executor": "Run",
@@ -139,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773256879361</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="3/12 Problem">
+      <option name="closed" value="true" />
+      <created>1773337203168</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1773337203168</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -150,6 +159,7 @@
     <MESSAGE value="3/10 Problem" />
     <MESSAGE value="Problems so far from February and March" />
     <MESSAGE value="3/11 Problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="3/11 Problem" />
+    <MESSAGE value="3/12 Problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/12 Problem" />
   </component>
 </project>

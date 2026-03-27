@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5230ecf-61dd-4c7d-9ed7-d6062a06d0ef" name="Changes" comment="3/25 Problem">
-      <change afterPath="$PROJECT_DIR$/src/MarchProblems/MovieNight.py" afterDir="false" />
+    <list default="true" id="a5230ecf-61dd-4c7d-9ed7-d6062a06d0ef" name="Changes" comment="3/26 Problem">
+      <change afterPath="$PROJECT_DIR$/src/MarchProblems/TruncatetheText2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,7 @@
     "Python.PiDay.executor": "Run",
     "Python.QRDecoder.executor": "Run",
     "Python.SumTheLetters.executor": "Run",
+    "Python.TruncatetheText2.executor": "Run",
     "Python.WordLengthConverter.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -265,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774455980659</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="3/26 Problem">
+      <option name="closed" value="true" />
+      <created>1774549354640</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1774549354640</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -290,6 +299,7 @@
     <MESSAGE value="3/23 Problem" />
     <MESSAGE value="3/24 Problem" />
     <MESSAGE value="3/25 Problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="3/25 Problem" />
+    <MESSAGE value="3/26 Problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/26 Problem" />
   </component>
 </project>

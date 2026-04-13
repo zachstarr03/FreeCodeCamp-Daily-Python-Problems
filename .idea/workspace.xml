@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5230ecf-61dd-4c7d-9ed7-d6062a06d0ef" name="Changes" comment="4/10 Problem">
-      <change afterPath="$PROJECT_DIR$/src/AprilProblems/RookAndBishopAttack.py" afterDir="false" />
+    <list default="true" id="a5230ecf-61dd-4c7d-9ed7-d6062a06d0ef" name="Changes" comment="4/11 Problem">
+      <change afterPath="$PROJECT_DIR$/src/AprilProblems/NameInitials.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "Python.InvertedMatrix.executor": "Run",
     "Python.LargestNumber.executor": "Run",
     "Python.MovieNight.executor": "Run",
+    "Python.NameInitials.executor": "Run",
     "Python.NextBingoNumber.executor": "Run",
     "Python.NoConsecutiveRepeats.executor": "Run",
     "Python.ParkingFeeCalculator.executor": "Run",
@@ -355,11 +356,18 @@
       <option name="project" value="LOCAL" />
       <updated>1775838762507</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="4/11 Problem">
+      <option name="closed" value="true" />
+      <created>1775963267299</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1775963267299</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3/11 Problem" />
     <MESSAGE value="3/12 Problem" />
     <MESSAGE value="3/13 Problem" />
     <MESSAGE value="3/14 Problem" />
@@ -384,6 +392,7 @@
     <MESSAGE value="4/08 Problem" />
     <MESSAGE value="4/09 Problem" />
     <MESSAGE value="4/10 Problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="4/10 Problem" />
+    <MESSAGE value="4/11 Problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="4/11 Problem" />
   </component>
 </project>
